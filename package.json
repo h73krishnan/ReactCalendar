@@ -13,5 +13,14 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "snowpack": "^3.0.11"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h73krishnan/ReactCalendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h73krishnan/ReactCalendar/issues"
+  },
+  "homepage": "https://github.com/h73krishnan/ReactCalendar#readme"
 }
